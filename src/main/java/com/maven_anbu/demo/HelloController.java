@@ -9,7 +9,7 @@ public class HelloController {
 
     @Autowired
     private HelloService helloService;
-    private HiService HiService;
+    private
 
     @GetMapping("/student")
     public Student getStudent() {
